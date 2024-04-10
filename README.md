@@ -1,4 +1,4 @@
 - ✨ Hi! I am Rachel Yong and welcome to my space
-- 🔭 I’m a software engineer working on full stack development and am still looking to improve everyday
-- 🌱 I’m currently interested in development in the AI/ML space 
+- 🔭 I’m a full stack software engineer
+- 🌱 Exploring and experimenting - AI/ML
 - 👯 You can reach me at rachelyongyj@gmail.com 
